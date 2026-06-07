@@ -1,6 +1,6 @@
 # Hi, I'm Naeema
 
-I'm an AI-forward design engineer with a multidisciplinary background in filmmaking and philosophy, I’ve designed and developed products ranging from mobile apps to data dashboards, bridging research-driven design with technical implementation. Philosophy taught me to ask the right questions, film taught me to tell compelling stories, and design lets me put both into practice.
+I'm an AI-forward design engineer with a multidisciplinary background in filmmaking and philosophy, I've designed and developed products ranging from mobile apps to data dashboards, bridging research-driven design with technical implementation. Philosophy taught me to ask the right questions, film taught me to tell compelling stories, and design lets me put both into practice.
 
 ## Languages & Technologies
 
@@ -24,7 +24,7 @@ I use them as accelerators for boilerplate, exploration, and rubber-ducking. All
 
 ## Projects
 
-- [**SiteMapper**](https://github.com/naeema-scopes/sitemapper) — Full-stack web crawler with interactive relational graph dashboard
-- [**Guardrail**](https://github.com/naeema-scopes/guardrail) — Real-time AI code review for agentic coding sessions
-- [**RoastMyRepo**](https://github.com/naeema-scopes/roastmyrepo) — CLI + API that analyzes code quality with dry, actionable feedback
-- [**WikiMod**](https://github.com/naeema-scopes/wikimod) — Wikipedia talk page toxicity monitor powered by ML
+- [**SiteMapper**](https://github.com/naeema-scopes/sitemapper) - Full-stack web crawler with interactive relational graph dashboard
+- [**Guardrail**](https://github.com/naeema-scopes/guardrail) - Real-time AI code review for agentic coding sessions
+- [**RoastMyRepo**](https://github.com/naeema-scopes/roastmyrepo) - CLI + API that analyzes code quality with dry, actionable feedback
+- [**WikiMod**](https://github.com/naeema-scopes/wikimod) - Wikipedia talk page toxicity monitor powered by ML
