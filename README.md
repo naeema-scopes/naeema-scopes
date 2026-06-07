@@ -1,6 +1,6 @@
 # Hi, I'm Naeema
 
-Design engineer exploring fullstack agentic workflows.
+I'm an AI-forward design engineer with a multidisciplinary background in filmmaking and philosophy, I’ve designed and developed products ranging from mobile apps to data dashboards, bridging research-driven design with technical implementation. Philosophy taught me to ask the right questions, film taught me to tell compelling stories, and design lets me put both into practice.
 
 ## Languages & Technologies
 
