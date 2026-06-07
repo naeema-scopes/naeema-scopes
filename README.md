@@ -1,6 +1,6 @@
 # Hi, I'm Naeema
 
-Fullstack engineer with a background in design and technology. I build tools that sit at the intersection of data, developer experience, and interactive visualization.
+Design engineer exploring fullstack agentic workflows.
 
 ## Languages & Technologies
 
@@ -28,7 +28,3 @@ I use them as accelerators for boilerplate, exploration, and rubber-ducking. All
 - [**Guardrail**](https://github.com/naeema-scopes/guardrail) — Real-time AI code review for agentic coding sessions
 - [**RoastMyRepo**](https://github.com/naeema-scopes/roastmyrepo) — CLI + API that analyzes code quality with dry, actionable feedback
 - [**WikiMod**](https://github.com/naeema-scopes/wikimod) — Wikipedia talk page toxicity monitor powered by ML
-
-## Currently
-
-Building developer tools for agentic coding workflows. Working on Guardrail — a real-time code review layer that watches AI agents as they write code.
